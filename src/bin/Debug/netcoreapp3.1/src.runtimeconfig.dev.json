@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gopak\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gopak\\.nuget\\packages"
+    ]
+  }
+}
